@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suivi des Artistes Spotify</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* Styles CSS copiés/adaptés de votre app.py et des fichiers HTML précédents */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #eef2f7;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .header-banner {
+            background: linear-gradient(to right, #4f8df9, #6c5ce7);
+            padding: 25px 0;
+            color: white;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 0 0 15px 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-banner h1 {
+            margin: 0;
+            font-size: 2.2em;
+            letter-spacing: 1px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+            margin-bottom: 25px;
+            font-size: 1.8em;
+        }
+
+        /* Barre de recherche */
+        .search-container {
+            margin-bottom: 25px;
+            text-align: center;
+            display: flex; /* Utilisation de flexbox pour aligner l'input et le spinner */
+            align-items: center; /* Centrer verticalement */
+            justify-content: center; /* Centrer le contenu horizontalement */
+        }
+        .search-container input[type="text"] {
+            padding: 10px 15px;
+            border: 1px solid #c9d6ea;
+            border-radius: 25px; /* Plus arrondi */
+            width: 70%;
+            max-width: 400px;
+            font-size: 1em;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+            transition: border-color 0.3s, box-shadow 0.3s;
+            margin-right: 10px; /* Espace entre l'input et le spinner */
+        }
+        .search-container input[type="text"]:focus {
+            border-color: #4f8df9;
+            box-shadow: 0 0 8px rgba(79, 141, 249, 0.3);
+            outline: none;
+        }
+        .search-container button {
+            display: none; /* Le bouton de recherche n'est plus nécessaire avec le filtrage JS */
+        }
+        
+        /* Tableau */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            border-radius: 8px;
+            overflow: hidden; /* Pour que les coins arrondis fonctionnent avec les bordures */
+        }
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #e9ecef; /* Bordures plus claires */
+            text-align: left;
+        }
+        th {
+            background-color: #f8f9fa; /* Fond d'en-tête plus clair */
+            color: #495057;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9em;
+        }
+        tr:nth-child(even) {
+            background-color: #fefefe;
+        }
+        tr.artist-row:hover { /* Classe ajoutée pour le JS */
+            background-color: #e0f2f7; /* Survol plus doux */
+            cursor: pointer;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Statuts et Tooltips */
+        .status-tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+        }
+
+        .status-tooltip .tooltiptext {
+            visibility: hidden;
+            width: 160px;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%; /* Position au-dessus de l'icône */
+            left: 50%;
+            margin-left: -80px; /* Centrer le tooltip */
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .status-tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+        }
+
+        .status-tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .icon-up-to-date {
+            color: #28a745; /* Vert Bootstrap success */
+            font-size: 1.2em;
+            vertical-align: middle;
+        }
+
+        .icon-needs-update {
+            color: #ffc107; /* Orange Bootstrap warning */
+            font-size: 1.2em;
+            vertical-align: middle;
+        }
+
+        /* Message "Aucun artiste trouvé" */
+        #noArtistsMessage {
+            text-align: center;
+            color: #666;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f0f0f0;
+            border-radius: 8px;
+            display: none; /* Caché par défaut, affiché par JS si besoin */
+        }
+
+        /* Styles pour la colonne Actions */
+        .action-cell {
+            text-align: center;
+            white-space: nowrap; /* Empêche les icônes de passer à la ligne */
+        }
+
+        .action-button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2em;
+            margin: 0 5px;
+            padding: 5px;
+            border-radius: 5px;
+            transition: color 0.3s, background-color 0.3s;
+            display: inline-flex; /* Pour centrer le contenu de l'icône */
+            align-items: center;
+            justify-content: center;
+        }
+
+        .action-button:hover {
+            background-color: rgba(0, 0, 0, 0.05);
+        }
+
+        .action-button.refresh-button {
+            color: #007bff; /* Bleu pour l'actualisation */
+        }
+
+        .action-button.refresh-button:hover {
+            color: #0056b3;
+        }
+        
+        .action-button.refresh-button:disabled {
+            color: #cccccc; /* Couleur plus claire quand désactivé */
+            cursor: not-allowed;
+            background-color: transparent;
+        }
+
+        .action-button.delete-button {
+            color: #dc3545; /* Rouge pour la suppression */
+        }
+
+        .action-button.delete-button:hover {
+            color: #a71d2a;
+        }
+
+        /* Styles pour le spinner Bootstrap (si vous n'avez que le CSS de base de Bootstrap) */
+        .spinner-border {
+            display: inline-block;
+            width: 1.5rem; /* Taille standard pour un spinner compact */
+            height: 1.5rem;
+            vertical-align: -0.125em;
+            border: 0.25em solid currentColor;
+            border-right-color: transparent;
+            border-radius: 50%;
+            -webkit-animation: .75s linear infinite spinner-border;
+            animation: .75s linear infinite spinner-border;
+        }
+        @keyframes spinner-border {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="header-banner">
+        <h1>Suivi des Artistes Spotify</h1>
+    </div>
+
+    <div class="container">
+        <h2>Artistes Suivis</h2>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Rechercher un artiste...">
+            <div id="loadingSearchIndicator" class="spinner-border text-primary" role="status" style="display: none;">
+                <span class="visually-hidden">Chargement...</span>
+            </div>
+        </div>
+
+        <table class="table table-hover mt-3">
+            <thead>
+                <tr>
+                    <th>Artiste</th>
+                    <th>Auditeurs Mensuels</th>
+                    <th style="text-align: center;">Statut</th>
+                </tr>
+            </thead>
+            <tbody id="artistsTableBody">
+                </tbody>
+        </table>
+
+        <p id="noArtistsMessage" style="display: none;">Aucun artiste trouvé. Contactez l'administrateur si la liste est vide ou si votre recherche ne donne pas de résultats.</p>
+        
+        <div style="text-align: center; margin-top: 20px;">
+            <button id="loadMoreButton" class="btn btn-primary" style="display: none;">Voir plus d'artistes</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    
+    <script src="./js/main.js"></script>
+</body>
+</html>

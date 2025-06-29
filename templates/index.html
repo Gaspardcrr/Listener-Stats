@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suivi des Artistes Spotify</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #eef2f7;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .header-banner {
+            background: linear-gradient(to right, #4f8df9, #6c5ce7);
+            padding: 25px 0;
+            color: white;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 0 0 15px 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-banner h1 {
+            margin: 0;
+            font-size: 2.2em;
+            letter-spacing: 1px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .search-container {
+            margin-bottom: 30px;
+            padding: 18px 25px;
+            background-color: #f0f4f8;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .search-container label {
+            font-weight: bold;
+            flex-shrink: 0;
+            color: #555;
+            font-size: 1.1em;
+        }
+
+        .search-container input[type="text"] {
+            padding: 14px;
+            border-radius: 6px;
+            border: 1px solid #cdd5df;
+            flex-grow: 1;
+            font-size: 1.15em;
+            width: 100%;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .search-container input[type="text"]:focus {
+            outline: none;
+            border-color: #6a9ce4;
+            box-shadow: 0 0 0 3px rgba(106, 156, 228, 0.25);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin-top: 25px;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            border-radius: 8px;
+            overflow: hidden;
+            font-size: 0.95em;
+        }
+
+        th, td {
+            border-bottom: 1px solid #e0e6ed;
+            padding: 15px 20px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f7f9fc;
+            color: #4a5568;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-size: 0.9em;
+        }
+
+        th:first-child { border-top-left-radius: 8px; }
+        th:last-child { border-top-right-radius: 8px; }
+
+        /* Statut colonne centrée */
+        th:nth-child(3), td:nth-child(3) {
+            width: 100px;
+            text-align: center;
+        }
+
+        tr:nth-child(even) {
+            background-color: #fdfefe;
+        }
+
+        tbody tr:hover {
+            background-color: #eaf3ff;
+            transform: scale(1.01);
+            transition: all 0.15s ease-in-out;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+            cursor: pointer;
+        }
+
+        td a {
+            color: #347deb;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        td a:hover {
+            text-decoration: underline;
+            color: #2167d4;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 6px 10px;
+            font-size: 0.85em;
+            font-weight: 600;
+            border-radius: 20px;
+            color: white;
+        }
+
+        .badge-success { background-color: #28a745; }
+        .badge-warning { background-color: #ffc107; color: #212529; }
+    </style>
+</head>
+<body>
+    <div class="header-banner">
+        <h1>📊 Suivi des Auditeurs Spotify</h1>
+    </div>
+
+    <div class="container">
+        <h2>Liste des artistes</h2>
+        <div class="search-container">
+            <label for="searchInput">Rechercher un artiste:</label>
+            <input type="text" id="searchInput" autofocus
+                   placeholder="Taper le nom de l'artiste..."
+                   value="{{ search_query if search_query is not none else '' }}">
+        </div>
+
+        {% if artistes %}
+            <table id="artistTable">
+                <thead>
+                    <tr>
+                        <th>Nom de l'artiste</th>
+                        <th>Auditeurs Mensuels (Actuel)</th>
+                        <th>Statut</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for artiste in artistes %}
+                        <tr class="clickable-row"
+                            data-url="{{ url_for('artist_detail', artist_name=artiste.nom | urlencode) }}">
+                            <td>
+                                <a href="{{ url_for('artist_detail', artist_name=artiste.nom | urlencode) }}">
+                                    {{ artiste.nom }}
+                                </a>
+                            </td>
+                            <td>
+                                {{ "{:,.0f}".format(artiste.last_listeners_count | int) if artiste.last_listeners_count != -1 else 'N/A' }}
+                            </td>
+                            <td>
+                                {% if artiste.is_up_to_date_today %}
+                                    <span class="badge badge-success"
+                                          title="Dernière mise à jour : {{ artiste.last_update_date }}">
+                                        À jour
+                                    </span>
+                                {% else %}
+                                    <span class="badge badge-warning"
+                                          title="Dernière mise à jour : {{ artiste.last_update_date }}">
+                                        À mettre à jour
+                                    </span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p style="text-align:center; color:#666;">Aucun artiste trouvé. Contactez l'administrateur si la liste est vide.</p>
+        {% endif %}
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const searchInput = document.getElementById('searchInput');
+
+            if (searchInput) {
+                searchInput.focus();
+                searchInput.setSelectionRange(searchInput.value.length, searchInput.value.length);
+
+                searchInput.addEventListener('keyup', function (e) {
+                    const filter = searchInput.value.toLowerCase();
+                    window.location.href = `{{ url_for('index') }}?q=${encodeURIComponent(filter)}`;
+                });
+            }
+
+            // Rendre les lignes du tableau cliquables
+            document.querySelectorAll('.clickable-row').forEach(row => {
+                row.addEventListener('click', function (e) {
+                    if (!e.target.closest('a')) {
+                        window.location.href = this.dataset.url;
+                    }
+                });
+            });
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const qParam = urlParams.get('q');
+            if (qParam && searchInput) {
+                searchInput.value = qParam;
+            }
+        });
+    </script>
+</body>
+</html>

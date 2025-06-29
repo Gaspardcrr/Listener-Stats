@@ -1,0 +1,3079 @@
+
+================================================================================
+Historique d'exécution - 2025-06-16 21:06:04
+================================================================================
+
+[2025-06-16 21:06:04] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+[2025-06-16 21:06:04] Tous les 1325 artistes sont déjà à jour. Aucune opération de scraping nécessaire.
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 0.19 secondes
+  - Temps moyen par artiste SCRAPÉ : N/A (aucun artiste n'a été scrappé)
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 1325
+  - Artistes réellement scrappés : 0
+  - Scrapings réussis : 0
+  - Erreurs de scraping : 0
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-17 16:53:18
+================================================================================
+
+[2025-06-17 15:59:21] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1325 artistes sur 1325.
+
+Début du traitement des résultats et de l'enregistrement des données...
+
+[2025-06-17 15:59:21] --- Résumé de l'Actualisation ---
+Temps total écoulé : 3237.77 secondes.
+Temps moyen par artiste SCRAPÉ : 2.44 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1325
+  - Scrapings réussis : 1325
+  - Erreurs de scraping : 0
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3237.77 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.44 secondes
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1325
+  - Scrapings réussis : 1325
+  - Erreurs de scraping : 0
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-18 01:53:49
+================================================================================
+
+[2025-06-18 00:53:47] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1325 artistes sur 1325.
+
+Début du traitement des résultats et de l'enregistrement des données...
+
+[2025-06-18 00:53:47] --- Résumé de l'Actualisation ---
+Temps total écoulé : 3602.01 secondes.
+Temps moyen par artiste SCRAPÉ : 2.72 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1325
+  - Scrapings réussis : 1315
+  - Erreurs de scraping : 10
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+Artistes avec erreurs de SCRAPING :
+  - Jul (Erreur: File is not a zip file)
+  - Luther (Erreur: File is not a zip file)
+  - NeS (Erreur: File is not a zip file)
+  - Rounhaa (Erreur: File is not a zip file)
+  - Yvnnis (Erreur: File is not a zip file)
+  - Bavaz (Erreur: File is not a zip file)
+  - Sto (Erreur: Auditeurs non trouvés)
+  - Coffio (Erreur: Auditeurs non trouvés)
+  - Huntrill (Erreur: Auditeurs non trouvés)
+  - dj33needler (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xfc3b03+62899]
+	GetHandleVerifier [0x0xfc3b44+62964]
+	(No symbol) [0x0xdf10f3]
+	(No symbol) [0x0xe3980e]
+	(No symbol) [0x0xe39bab]
+	(No symbol) [0x0xe825c2]
+	(No symbol) [0x0xe5e554]
+	(No symbol) [0x0xe7fd81]
+	(No symbol) [0x0xe5e306]
+	(No symbol) [0x0xe2d670]
+	(No symbol) [0x0xe2e4e4]
+	GetHandleVerifier [0x0x1224793+2556483]
+	GetHandleVerifier [0x0x121fd02+2537394]
+	GetHandleVerifier [0x0xfea2fa+220586]
+	GetHandleVerifier [0x0xfdaae8+157080]
+	GetHandleVerifier [0x0xfe141d+184013]
+	GetHandleVerifier [0x0xfcba68+95512]
+	GetHandleVerifier [0x0xfcbc10+95936]
+	GetHandleVerifier [0x0xfb6b5a+9738]
+	BaseThreadInitThunk [0x0x75f45d49+25]
+	RtlInitializeExceptionChain [0x0x77c9d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77c9d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3602.01 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.72 secondes
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1325
+  - Scrapings réussis : 1315
+  - Erreurs de scraping : 10
+    Détails des artistes avec erreurs de SCRAPING:
+      - Jul (Erreur: File is not a zip file)
+      - Luther (Erreur: File is not a zip file)
+      - NeS (Erreur: File is not a zip file)
+      - Rounhaa (Erreur: File is not a zip file)
+      - Yvnnis (Erreur: File is not a zip file)
+      - Bavaz (Erreur: File is not a zip file)
+      - Sto (Erreur: Auditeurs non trouvés)
+      - Coffio (Erreur: Auditeurs non trouvés)
+      - Huntrill (Erreur: Auditeurs non trouvés)
+      - dj33needler (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xfc3b03+62899]
+	GetHandleVerifier [0x0xfc3b44+62964]
+	(No symbol) [0x0xdf10f3]
+	(No symbol) [0x0xe3980e]
+	(No symbol) [0x0xe39bab]
+	(No symbol) [0x0xe825c2]
+	(No symbol) [0x0xe5e554]
+	(No symbol) [0x0xe7fd81]
+	(No symbol) [0x0xe5e306]
+	(No symbol) [0x0xe2d670]
+	(No symbol) [0x0xe2e4e4]
+	GetHandleVerifier [0x0x1224793+2556483]
+	GetHandleVerifier [0x0x121fd02+2537394]
+	GetHandleVerifier [0x0xfea2fa+220586]
+	GetHandleVerifier [0x0xfdaae8+157080]
+	GetHandleVerifier [0x0xfe141d+184013]
+	GetHandleVerifier [0x0xfcba68+95512]
+	GetHandleVerifier [0x0xfcbc10+95936]
+	GetHandleVerifier [0x0xfb6b5a+9738]
+	BaseThreadInitThunk [0x0x75f45d49+25]
+	RtlInitializeExceptionChain [0x0x77c9d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77c9d021+561]
+)
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-19 17:55:17
+================================================================================
+
+[2025-06-19 16:57:08] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1325 artistes sur 1325.
+
+Début du traitement des résultats et de l'enregistrement des données...
+
+[2025-06-19 16:57:08] --- Résumé de l'Actualisation ---
+Temps total écoulé : 3489.20 secondes.
+Temps moyen par artiste SCRAPÉ : 2.63 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1325
+  - Scrapings réussis : 1317
+  - Erreurs de scraping : 8
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+Artistes avec erreurs de SCRAPING :
+  - Yvnnis (Erreur: File is not a zip file)
+  - Luther (Erreur: File is not a zip file)
+  - Jul (Erreur: File is not a zip file)
+  - Rounhaa (Erreur: File is not a zip file)
+  - East Duo (Erreur: Auditeurs non trouvés)
+  - France Gall (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe10f3]
+	(No symbol) [0x0x102980e]
+	(No symbol) [0x0x1029bab]
+	(No symbol) [0x0x10725c2]
+	(No symbol) [0x0x104e554]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x76a25d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d021+561]
+)
+  - Izen (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe10f3]
+	(No symbol) [0x0x102980e]
+	(No symbol) [0x0x1029bab]
+	(No symbol) [0x0x10725c2]
+	(No symbol) [0x0x104e554]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x76a25d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d021+561]
+)
+  - Rushy (Erreur: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe10f3]
+	(No symbol) [0x0xfe78e0]
+	(No symbol) [0x0xfe9c0a]
+	(No symbol) [0x0xfe9c87]
+	(No symbol) [0x0x102452e]
+	(No symbol) [0x0x104e50c]
+	(No symbol) [0x0x101ee74]
+	(No symbol) [0x0x104e784]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x76a25d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3489.20 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.63 secondes
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1325
+  - Scrapings réussis : 1317
+  - Erreurs de scraping : 8
+    Détails des artistes avec erreurs de SCRAPING:
+      - Yvnnis (Erreur: File is not a zip file)
+      - Luther (Erreur: File is not a zip file)
+      - Jul (Erreur: File is not a zip file)
+      - Rounhaa (Erreur: File is not a zip file)
+      - East Duo (Erreur: Auditeurs non trouvés)
+      - France Gall (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe10f3]
+	(No symbol) [0x0x102980e]
+	(No symbol) [0x0x1029bab]
+	(No symbol) [0x0x10725c2]
+	(No symbol) [0x0x104e554]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x76a25d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d021+561]
+)
+      - Izen (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe10f3]
+	(No symbol) [0x0x102980e]
+	(No symbol) [0x0x1029bab]
+	(No symbol) [0x0x10725c2]
+	(No symbol) [0x0x104e554]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x76a25d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d021+561]
+)
+      - Rushy (Erreur: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe10f3]
+	(No symbol) [0x0xfe78e0]
+	(No symbol) [0x0xfe9c0a]
+	(No symbol) [0x0xfe9c87]
+	(No symbol) [0x0x102452e]
+	(No symbol) [0x0x104e50c]
+	(No symbol) [0x0x101ee74]
+	(No symbol) [0x0x104e784]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x76a25d49+25]
+	RtlInitializeExceptionChain [0x0x77b8d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b8d021+561]
+)
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-19 23:47:00
+================================================================================
+
+[2025-06-19 23:46:54] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+[2025-06-19 23:46:54] Tous les 1325 artistes sont déjà à jour. Aucune opération de scraping nécessaire.
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 5.43 secondes
+  - Temps moyen par artiste SCRAPÉ : N/A (aucun artiste n'a été scrappé)
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 1325
+  - Artistes réellement scrappés : 0
+  - Scrapings réussis : 0
+  - Erreurs de scraping : 0
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-20 18:42:37
+================================================================================
+
+[2025-06-20 17:47:24] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1318 artistes sur 1325.
+
+3 artistes ont échoué lors du scraping initial. Tentative de re-scrpaing en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/3] Pour Nekfeu...
+[RE-TENTATIVE 2/3] Pour J2LASTEU...
+[RE-TENTATIVE 3/3] Pour TWENTG...
+--- Fin de la phase de re-tentative ---
+
+Début du traitement des résultats finaux et de l'enregistrement des données...
+
+[2025-06-20 17:47:24] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3312.85 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.51 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 7
+  - Artistes réellement scrappés (initialement tentés) : 1318
+  - Re-tentatives effectuées : 3
+  - Succès FINAUX (après re-tentatives) : 1318
+  - Échecs de SCRAPING FINAUX (après re-tentatives) : 0
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3312.85 secondes
+  - Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.51 secondes
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 7
+  - Artistes réellement scrappés (initialement tentés) : 1318
+  - Succès FINAUX (après re-tentatives) : 1318
+  - Échecs de SCRAPING FINAUX (après re-tentatives) : 0
+  - Erreurs d'ajout au CSV (total) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-20 20:33:21
+================================================================================
+
+[2025-06-20 19:39:47] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1315 artistes sur 1325.
+
+Aucun artiste à re-tenter après le scraping initial.
+
+Début du traitement des résultats finaux et de l'enregistrement des données...
+
+[2025-06-20 19:39:47] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3213.99 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.44 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 10
+  - Artistes réellement scrappés (initialement tentés) : 1315
+  - Re-tentatives effectuées : 0
+  - Succès FINAUX (après re-tentatives) : 1315
+  - Échecs de SCRAPING FINAUX (après re-tentatives) : 0
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3213.99 secondes
+  - Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.44 secondes
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 10
+  - Artistes réellement scrappés (initialement tentés) : 1315
+  - Succès FINAUX (après re-tentatives) : 1315
+  - Échecs de SCRAPING FINAUX (après re-tentatives) : 0
+  - Erreurs d'ajout au CSV (total) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-20 23:18:24
+================================================================================
+
+[2025-06-20 20:53:09] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1315 artistes sur 1325.
+
+Début du traitement des résultats et de l'enregistrement des données...
+
+[2025-06-20 20:53:09] --- Résumé de l'Actualisation ---
+Temps total écoulé : 8715.07 secondes.
+Temps moyen par artiste SCRAPÉ : 6.63 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 10
+  - Artistes réellement scrappés : 1315
+  - Scrapings réussis : 1299
+  - Erreurs de scraping : 16
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+Artistes avec erreurs de SCRAPING :
+  - Unfamouslouie (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xdff8e4]
+	(No symbol) [0x0xe003ad]
+	(No symbol) [0x0xe0cb99]
+	(No symbol) [0x0xe1e225]
+	(No symbol) [0x0xe23c16]
+	(No symbol) [0x0xe009ed]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xea00b9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+  - Kid Exotic (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xe00a71]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xe9fc90]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+  - Happy Mondays (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xe00a71]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xea00b9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+  - Bob Marlich (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xe00a71]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xea00b9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+  - Dexa. (Erreur: Could not reach host. Are you offline?)
+  - 127m (Erreur: Could not reach host. Are you offline?)
+  - Lyre (Erreur: Could not reach host. Are you offline?)
+  - Celestino (Erreur: Could not reach host. Are you offline?)
+  - Jeune Morty (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe008c0]
+	(No symbol) [0x0xe1e87f]
+	(No symbol) [0x0xe8514c]
+	(No symbol) [0x0xe9f6a9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+  - Naimo (Erreur: Could not reach host. Are you offline?)
+  - Dalí (Erreur: Could not reach host. Are you offline?)
+  - Dafliky (Erreur: Could not reach host. Are you offline?)
+  - Khali (Erreur: Could not reach host. Are you offline?)
+  - H JeuneCrack (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe5980e]
+	(No symbol) [0x0xe59bab]
+	(No symbol) [0x0xea25c2]
+	(No symbol) [0x0xe7e554]
+	(No symbol) [0x0xe9fd81]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+  - Doums (Erreur: Auditeurs non trouvés)
+  - Le Rat Luciano (Erreur: Auditeurs non trouvés)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 8715.07 secondes
+  - Temps moyen par artiste SCRAPÉ : 6.63 secondes
+  - Artistes totaux considérés : 1325
+  - Artistes déjà à jour (passés) : 10
+  - Artistes réellement scrappés : 1315
+  - Scrapings réussis : 1299
+  - Erreurs de scraping : 16
+    Détails des artistes avec erreurs de SCRAPING:
+      - Unfamouslouie (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xdff8e4]
+	(No symbol) [0x0xe003ad]
+	(No symbol) [0x0xe0cb99]
+	(No symbol) [0x0xe1e225]
+	(No symbol) [0x0xe23c16]
+	(No symbol) [0x0xe009ed]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xea00b9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+      - Kid Exotic (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xe00a71]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xe9fc90]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+      - Happy Mondays (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xe00a71]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xea00b9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+      - Bob Marlich (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe01c0b]
+	(No symbol) [0x0xe01941]
+	(No symbol) [0x0xe00a71]
+	(No symbol) [0x0xe1daa4]
+	(No symbol) [0x0xea00b9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+      - Dexa. (Erreur: Could not reach host. Are you offline?)
+      - 127m (Erreur: Could not reach host. Are you offline?)
+      - Lyre (Erreur: Could not reach host. Are you offline?)
+      - Celestino (Erreur: Could not reach host. Are you offline?)
+      - Jeune Morty (Erreur: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe008c0]
+	(No symbol) [0x0xe1e87f]
+	(No symbol) [0x0xe8514c]
+	(No symbol) [0x0xe9f6a9]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+      - Naimo (Erreur: Could not reach host. Are you offline?)
+      - Dalí (Erreur: Could not reach host. Are you offline?)
+      - Dafliky (Erreur: Could not reach host. Are you offline?)
+      - Khali (Erreur: Could not reach host. Are you offline?)
+      - H JeuneCrack (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe5980e]
+	(No symbol) [0x0xe59bab]
+	(No symbol) [0x0xea25c2]
+	(No symbol) [0x0xe7e554]
+	(No symbol) [0x0xe9fd81]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x75755d49+25]
+	RtlInitializeExceptionChain [0x0x7770d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7770d021+561]
+)
+      - Doums (Erreur: Auditeurs non trouvés)
+      - Le Rat Luciano (Erreur: Auditeurs non trouvés)
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-21 16:22:20
+================================================================================
+
+[2025-06-21 15:26:24] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1326 artistes sur 1326.
+
+Début du traitement des résultats et de l'enregistrement des données...
+
+[2025-06-21 15:26:24] --- Résumé de l'Actualisation ---
+Temps total écoulé : 3356.10 secondes.
+Temps moyen par artiste SCRAPÉ : 2.53 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1326
+  - Scrapings réussis : 1315
+  - Erreurs de scraping : 11
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+Artistes avec erreurs de SCRAPING :
+  - Jul (Erreur: File is not a zip file)
+  - Luther (Erreur: File is not a zip file)
+  - Yvnnis (Erreur: File is not a zip file)
+  - NeS (Erreur: File is not a zip file)
+  - Jey Khemeya (Erreur: Auditeurs non trouvés)
+  - ICO (Erreur: Auditeurs non trouvés)
+  - FELIX! (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+  - Dooz Kawa (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+  - Bouss (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+  - JECK (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+  - Zach Bryan (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3356.10 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.53 secondes
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1326
+  - Scrapings réussis : 1315
+  - Erreurs de scraping : 11
+    Détails des artistes avec erreurs de SCRAPING:
+      - Jul (Erreur: File is not a zip file)
+      - Luther (Erreur: File is not a zip file)
+      - Yvnnis (Erreur: File is not a zip file)
+      - NeS (Erreur: File is not a zip file)
+      - Jey Khemeya (Erreur: Auditeurs non trouvés)
+      - ICO (Erreur: Auditeurs non trouvés)
+      - FELIX! (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+      - Dooz Kawa (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+      - Bouss (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+      - JECK (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+      - Zach Bryan (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1253b03+62899]
+	GetHandleVerifier [0x0x1253b44+62964]
+	(No symbol) [0x0x10810f3]
+	(No symbol) [0x0x10c980e]
+	(No symbol) [0x0x10c9bab]
+	(No symbol) [0x0x11125c2]
+	(No symbol) [0x0x10ee554]
+	(No symbol) [0x0x110fd81]
+	(No symbol) [0x0x10ee306]
+	(No symbol) [0x0x10bd670]
+	(No symbol) [0x0x10be4e4]
+	GetHandleVerifier [0x0x14b4793+2556483]
+	GetHandleVerifier [0x0x14afd02+2537394]
+	GetHandleVerifier [0x0x127a2fa+220586]
+	GetHandleVerifier [0x0x126aae8+157080]
+	GetHandleVerifier [0x0x127141d+184013]
+	GetHandleVerifier [0x0x125ba68+95512]
+	GetHandleVerifier [0x0x125bc10+95936]
+	GetHandleVerifier [0x0x1246b5a+9738]
+	BaseThreadInitThunk [0x0x75025d49+25]
+	RtlInitializeExceptionChain [0x0x76f5d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f5d021+561]
+)
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-22 20:32:47
+================================================================================
+
+[2025-06-22 19:34:37] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1326 artistes sur 1326.
+
+Début du traitement des résultats et de l'enregistrement des données...
+
+[2025-06-22 19:34:37] --- Résumé de l'Actualisation ---
+Temps total écoulé : 3489.96 secondes.
+Temps moyen par artiste SCRAPÉ : 2.63 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1326
+  - Scrapings réussis : 1322
+  - Erreurs de scraping : 4
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+Artistes avec erreurs de SCRAPING :
+  - Yvnnis (Erreur: File is not a zip file)
+  - Rounhaa (Erreur: Message: 'chromedriver.exe' executable may have wrong permissions.
+)
+  - AAMO (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x833b03+62899]
+	GetHandleVerifier [0x0x833b44+62964]
+	(No symbol) [0x0x6610f3]
+	(No symbol) [0x0x6a980e]
+	(No symbol) [0x0x6a9bab]
+	(No symbol) [0x0x6f25c2]
+	(No symbol) [0x0x6ce554]
+	(No symbol) [0x0x6efd81]
+	(No symbol) [0x0x6ce306]
+	(No symbol) [0x0x69d670]
+	(No symbol) [0x0x69e4e4]
+	GetHandleVerifier [0x0xa94793+2556483]
+	GetHandleVerifier [0x0xa8fd02+2537394]
+	GetHandleVerifier [0x0x85a2fa+220586]
+	GetHandleVerifier [0x0x84aae8+157080]
+	GetHandleVerifier [0x0x85141d+184013]
+	GetHandleVerifier [0x0x83ba68+95512]
+	GetHandleVerifier [0x0x83bc10+95936]
+	GetHandleVerifier [0x0x826b5a+9738]
+	BaseThreadInitThunk [0x0x751b5d49+25]
+	RtlInitializeExceptionChain [0x0x7779d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7779d021+561]
+)
+  - -M- (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x833b03+62899]
+	GetHandleVerifier [0x0x833b44+62964]
+	(No symbol) [0x0x6610f3]
+	(No symbol) [0x0x6a980e]
+	(No symbol) [0x0x6a9bab]
+	(No symbol) [0x0x6f25c2]
+	(No symbol) [0x0x6ce554]
+	(No symbol) [0x0x6efd81]
+	(No symbol) [0x0x6ce306]
+	(No symbol) [0x0x69d670]
+	(No symbol) [0x0x69e4e4]
+	GetHandleVerifier [0x0xa94793+2556483]
+	GetHandleVerifier [0x0xa8fd02+2537394]
+	GetHandleVerifier [0x0x85a2fa+220586]
+	GetHandleVerifier [0x0x84aae8+157080]
+	GetHandleVerifier [0x0x85141d+184013]
+	GetHandleVerifier [0x0x83ba68+95512]
+	GetHandleVerifier [0x0x83bc10+95936]
+	GetHandleVerifier [0x0x826b5a+9738]
+	BaseThreadInitThunk [0x0x751b5d49+25]
+	RtlInitializeExceptionChain [0x0x7779d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7779d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3489.96 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.63 secondes
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés : 1326
+  - Scrapings réussis : 1322
+  - Erreurs de scraping : 4
+    Détails des artistes avec erreurs de SCRAPING:
+      - Yvnnis (Erreur: File is not a zip file)
+      - Rounhaa (Erreur: Message: 'chromedriver.exe' executable may have wrong permissions.
+)
+      - AAMO (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x833b03+62899]
+	GetHandleVerifier [0x0x833b44+62964]
+	(No symbol) [0x0x6610f3]
+	(No symbol) [0x0x6a980e]
+	(No symbol) [0x0x6a9bab]
+	(No symbol) [0x0x6f25c2]
+	(No symbol) [0x0x6ce554]
+	(No symbol) [0x0x6efd81]
+	(No symbol) [0x0x6ce306]
+	(No symbol) [0x0x69d670]
+	(No symbol) [0x0x69e4e4]
+	GetHandleVerifier [0x0xa94793+2556483]
+	GetHandleVerifier [0x0xa8fd02+2537394]
+	GetHandleVerifier [0x0x85a2fa+220586]
+	GetHandleVerifier [0x0x84aae8+157080]
+	GetHandleVerifier [0x0x85141d+184013]
+	GetHandleVerifier [0x0x83ba68+95512]
+	GetHandleVerifier [0x0x83bc10+95936]
+	GetHandleVerifier [0x0x826b5a+9738]
+	BaseThreadInitThunk [0x0x751b5d49+25]
+	RtlInitializeExceptionChain [0x0x7779d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7779d021+561]
+)
+      - -M- (Erreur: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x833b03+62899]
+	GetHandleVerifier [0x0x833b44+62964]
+	(No symbol) [0x0x6610f3]
+	(No symbol) [0x0x6a980e]
+	(No symbol) [0x0x6a9bab]
+	(No symbol) [0x0x6f25c2]
+	(No symbol) [0x0x6ce554]
+	(No symbol) [0x0x6efd81]
+	(No symbol) [0x0x6ce306]
+	(No symbol) [0x0x69d670]
+	(No symbol) [0x0x69e4e4]
+	GetHandleVerifier [0x0xa94793+2556483]
+	GetHandleVerifier [0x0xa8fd02+2537394]
+	GetHandleVerifier [0x0x85a2fa+220586]
+	GetHandleVerifier [0x0x84aae8+157080]
+	GetHandleVerifier [0x0x85141d+184013]
+	GetHandleVerifier [0x0x83ba68+95512]
+	GetHandleVerifier [0x0x83bc10+95936]
+	GetHandleVerifier [0x0x826b5a+9738]
+	BaseThreadInitThunk [0x0x751b5d49+25]
+	RtlInitializeExceptionChain [0x0x7779d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7779d021+561]
+)
+  - Erreurs d'ajout au CSV (post-scraping) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-23 14:44:24
+================================================================================
+
+[2025-06-23 13:49:11] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1326 artistes sur 1326.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+4 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/4] Pour Luther...
+[RE-TENTATIVE 2/4] Pour GrandBazaar...
+[RE-TENTATIVE 3/4] Pour Lafleyne...
+[RE-TENTATIVE 4/4] Pour Bilouki...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-23 13:49:11] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3313.02 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.50 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Re-tentatives effectuées : 4
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 4
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - Luther (Initialement: File is not a zip file)
+  - GrandBazaar (Initialement: Auditeurs non trouvés)
+  - Lafleyne (Initialement: HTTPConnectionPool(host='localhost', port=53270): Read timed out. (read timeout=120))
+  - Bilouki (Initialement: Auditeurs non trouvés)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3313.02 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.50 secondes
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 4
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - Luther (Initialement: File is not a zip file)
+      - GrandBazaar (Initialement: Auditeurs non trouvés)
+      - Lafleyne (Initialement: HTTPConnectionPool(host='localhost', port=53270): Read timed out. (read timeout=120))
+      - Bilouki (Initialement: Auditeurs non trouvés)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-24 17:40:27
+================================================================================
+
+[2025-06-24 16:44:20] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1326 artistes sur 1326.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+6 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/6] Pour Jul...
+[RE-TENTATIVE 2/6] Pour Yvnnis...
+[RE-TENTATIVE 3/6] Pour Luther...
+[RE-TENTATIVE 4/6] Pour Damso...
+[RE-TENTATIVE 5/6] Pour Veazy...
+[RE-TENTATIVE 6/6] Pour Oscar Castro-Neves...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-24 16:44:20] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3366.83 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.54 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Re-tentatives effectuées : 6
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 6
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - Jul (Initialement: File is not a zip file)
+  - Yvnnis (Initialement: File is not a zip file)
+  - Luther (Initialement: File is not a zip file)
+  - Damso (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xcd3b03+62899]
+	GetHandleVerifier [0x0xcd3b44+62964]
+	(No symbol) [0x0xb010f3]
+	(No symbol) [0x0xb4980e]
+	(No symbol) [0x0xb49bab]
+	(No symbol) [0x0xb925c2]
+	(No symbol) [0x0xb6e554]
+	(No symbol) [0x0xb8fd81]
+	(No symbol) [0x0xb6e306]
+	(No symbol) [0x0xb3d670]
+	(No symbol) [0x0xb3e4e4]
+	GetHandleVerifier [0x0xf34793+2556483]
+	GetHandleVerifier [0x0xf2fd02+2537394]
+	GetHandleVerifier [0x0xcfa2fa+220586]
+	GetHandleVerifier [0x0xceaae8+157080]
+	GetHandleVerifier [0x0xcf141d+184013]
+	GetHandleVerifier [0x0xcdba68+95512]
+	GetHandleVerifier [0x0xcdbc10+95936]
+	GetHandleVerifier [0x0xcc6b5a+9738]
+	BaseThreadInitThunk [0x0x750d5d49+25]
+	RtlInitializeExceptionChain [0x0x76f0d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f0d021+561]
+)
+  - Veazy (Initialement: Auditeurs non trouvés)
+  - Oscar Castro-Neves (Initialement: Auditeurs non trouvés)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3366.83 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.54 secondes
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 6
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - Jul (Initialement: File is not a zip file)
+      - Yvnnis (Initialement: File is not a zip file)
+      - Luther (Initialement: File is not a zip file)
+      - Damso (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xcd3b03+62899]
+	GetHandleVerifier [0x0xcd3b44+62964]
+	(No symbol) [0x0xb010f3]
+	(No symbol) [0x0xb4980e]
+	(No symbol) [0x0xb49bab]
+	(No symbol) [0x0xb925c2]
+	(No symbol) [0x0xb6e554]
+	(No symbol) [0x0xb8fd81]
+	(No symbol) [0x0xb6e306]
+	(No symbol) [0x0xb3d670]
+	(No symbol) [0x0xb3e4e4]
+	GetHandleVerifier [0x0xf34793+2556483]
+	GetHandleVerifier [0x0xf2fd02+2537394]
+	GetHandleVerifier [0x0xcfa2fa+220586]
+	GetHandleVerifier [0x0xceaae8+157080]
+	GetHandleVerifier [0x0xcf141d+184013]
+	GetHandleVerifier [0x0xcdba68+95512]
+	GetHandleVerifier [0x0xcdbc10+95936]
+	GetHandleVerifier [0x0xcc6b5a+9738]
+	BaseThreadInitThunk [0x0x750d5d49+25]
+	RtlInitializeExceptionChain [0x0x76f0d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x76f0d021+561]
+)
+      - Veazy (Initialement: Auditeurs non trouvés)
+      - Oscar Castro-Neves (Initialement: Auditeurs non trouvés)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-25 13:27:51
+================================================================================
+
+[2025-06-25 12:30:10] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1326 artistes sur 1326.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+6 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/6] Pour NeS...
+[RE-TENTATIVE 2/6] Pour East Duo...
+[RE-TENTATIVE 3/6] Pour ENOCK...
+[RE-TENTATIVE 4/6] Pour JKSN...
+[RE-TENTATIVE 5/6] Pour Krisy...
+[RE-TENTATIVE 6/6] Pour NDO Runway...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-25 12:30:10] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3460.99 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.61 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Re-tentatives effectuées : 6
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 6
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - NeS (Initialement: File is not a zip file)
+  - East Duo (Initialement: Auditeurs non trouvés)
+  - ENOCK (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x443b03+62899]
+	GetHandleVerifier [0x0x443b44+62964]
+	(No symbol) [0x0x2710f3]
+	(No symbol) [0x0x2b980e]
+	(No symbol) [0x0x2b9bab]
+	(No symbol) [0x0x3025c2]
+	(No symbol) [0x0x2de554]
+	(No symbol) [0x0x2ffd81]
+	(No symbol) [0x0x2de306]
+	(No symbol) [0x0x2ad670]
+	(No symbol) [0x0x2ae4e4]
+	GetHandleVerifier [0x0x6a4793+2556483]
+	GetHandleVerifier [0x0x69fd02+2537394]
+	GetHandleVerifier [0x0x46a2fa+220586]
+	GetHandleVerifier [0x0x45aae8+157080]
+	GetHandleVerifier [0x0x46141d+184013]
+	GetHandleVerifier [0x0x44ba68+95512]
+	GetHandleVerifier [0x0x44bc10+95936]
+	GetHandleVerifier [0x0x436b5a+9738]
+	BaseThreadInitThunk [0x0x76435d49+25]
+	RtlInitializeExceptionChain [0x0x7789d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7789d021+561]
+)
+  - JKSN (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x443b03+62899]
+	GetHandleVerifier [0x0x443b44+62964]
+	(No symbol) [0x0x2710f3]
+	(No symbol) [0x0x2b980e]
+	(No symbol) [0x0x2b9bab]
+	(No symbol) [0x0x3025c2]
+	(No symbol) [0x0x2de554]
+	(No symbol) [0x0x2ffd81]
+	(No symbol) [0x0x2de306]
+	(No symbol) [0x0x2ad670]
+	(No symbol) [0x0x2ae4e4]
+	GetHandleVerifier [0x0x6a4793+2556483]
+	GetHandleVerifier [0x0x69fd02+2537394]
+	GetHandleVerifier [0x0x46a2fa+220586]
+	GetHandleVerifier [0x0x45aae8+157080]
+	GetHandleVerifier [0x0x46141d+184013]
+	GetHandleVerifier [0x0x44ba68+95512]
+	GetHandleVerifier [0x0x44bc10+95936]
+	GetHandleVerifier [0x0x436b5a+9738]
+	BaseThreadInitThunk [0x0x76435d49+25]
+	RtlInitializeExceptionChain [0x0x7789d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7789d021+561]
+)
+  - Krisy (Initialement: Auditeurs non trouvés)
+  - NDO Runway (Initialement: Auditeurs non trouvés)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3460.99 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.61 secondes
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 6
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - NeS (Initialement: File is not a zip file)
+      - East Duo (Initialement: Auditeurs non trouvés)
+      - ENOCK (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x443b03+62899]
+	GetHandleVerifier [0x0x443b44+62964]
+	(No symbol) [0x0x2710f3]
+	(No symbol) [0x0x2b980e]
+	(No symbol) [0x0x2b9bab]
+	(No symbol) [0x0x3025c2]
+	(No symbol) [0x0x2de554]
+	(No symbol) [0x0x2ffd81]
+	(No symbol) [0x0x2de306]
+	(No symbol) [0x0x2ad670]
+	(No symbol) [0x0x2ae4e4]
+	GetHandleVerifier [0x0x6a4793+2556483]
+	GetHandleVerifier [0x0x69fd02+2537394]
+	GetHandleVerifier [0x0x46a2fa+220586]
+	GetHandleVerifier [0x0x45aae8+157080]
+	GetHandleVerifier [0x0x46141d+184013]
+	GetHandleVerifier [0x0x44ba68+95512]
+	GetHandleVerifier [0x0x44bc10+95936]
+	GetHandleVerifier [0x0x436b5a+9738]
+	BaseThreadInitThunk [0x0x76435d49+25]
+	RtlInitializeExceptionChain [0x0x7789d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7789d021+561]
+)
+      - JKSN (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x443b03+62899]
+	GetHandleVerifier [0x0x443b44+62964]
+	(No symbol) [0x0x2710f3]
+	(No symbol) [0x0x2b980e]
+	(No symbol) [0x0x2b9bab]
+	(No symbol) [0x0x3025c2]
+	(No symbol) [0x0x2de554]
+	(No symbol) [0x0x2ffd81]
+	(No symbol) [0x0x2de306]
+	(No symbol) [0x0x2ad670]
+	(No symbol) [0x0x2ae4e4]
+	GetHandleVerifier [0x0x6a4793+2556483]
+	GetHandleVerifier [0x0x69fd02+2537394]
+	GetHandleVerifier [0x0x46a2fa+220586]
+	GetHandleVerifier [0x0x45aae8+157080]
+	GetHandleVerifier [0x0x46141d+184013]
+	GetHandleVerifier [0x0x44ba68+95512]
+	GetHandleVerifier [0x0x44bc10+95936]
+	GetHandleVerifier [0x0x436b5a+9738]
+	BaseThreadInitThunk [0x0x76435d49+25]
+	RtlInitializeExceptionChain [0x0x7789d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7789d021+561]
+)
+      - Krisy (Initialement: Auditeurs non trouvés)
+      - NDO Runway (Initialement: Auditeurs non trouvés)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-26 12:03:11
+================================================================================
+
+[2025-06-26 11:06:19] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1326 artistes sur 1326.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+4 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/4] Pour Rounhaa...
+[RE-TENTATIVE 2/4] Pour Jul...
+[RE-TENTATIVE 3/4] Pour Luther...
+[RE-TENTATIVE 4/4] Pour BOLEMVN...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-26 11:06:19] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3412.04 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.57 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Re-tentatives effectuées : 4
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 4
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - Rounhaa (Initialement: File is not a zip file)
+  - Jul (Initialement: File is not a zip file)
+  - Luther (Initialement: File is not a zip file)
+  - BOLEMVN (Initialement: Auditeurs non trouvés)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3412.04 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.57 secondes
+  - Artistes totaux considérés : 1326
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1326
+  - Succès FINAUX (après toutes les tentatives) : 1326
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 4
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - Rounhaa (Initialement: File is not a zip file)
+      - Jul (Initialement: File is not a zip file)
+      - Luther (Initialement: File is not a zip file)
+      - BOLEMVN (Initialement: Auditeurs non trouvés)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-27 17:41:28
+================================================================================
+
+[2025-06-27 17:41:28] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Aucun artiste trouvé dans la base de données. Rien à actualiser.
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 0.00 secondes
+  - Temps moyen par artiste SCRAPÉ : N/A (aucun artiste n'a été scrappé)
+  - Artistes totaux considérés : 0
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 0
+  - Succès FINAUX (après toutes les tentatives) : 0
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 0
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-27 18:44:30
+================================================================================
+
+[2025-06-27 17:42:06] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1332 artistes sur 1332.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+21 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/21] Pour Lifelike...
+[RE-TENTATIVE 2/21] Pour Baby Neelou...
+[RE-TENTATIVE 3/21] Pour Charles Aznavour...
+[RE-TENTATIVE 4/21] Pour Julian Casablancas...
+[RE-TENTATIVE 5/21] Pour Malter...
+[RE-TENTATIVE 6/21] Pour Nectar.S...
+[RE-TENTATIVE 7/21] Pour Nejeu...
+[RE-TENTATIVE 8/21] Pour amne...
+[RE-TENTATIVE 9/21] Pour Zoxea...
+[RE-TENTATIVE 10/21] Pour iros...
+[RE-TENTATIVE 11/21] Pour Big GLTAOW...
+[RE-TENTATIVE 12/21] Pour J. Cole...
+[RE-TENTATIVE 13/21] Pour Vacations...
+[RE-TENTATIVE 14/21] Pour TWENTG...
+[RE-TENTATIVE 15/21] Pour DJADJA...
+[RE-TENTATIVE 16/21] Pour Justin Bieber...
+[RE-TENTATIVE 17/21] Pour polo and pan...
+[RE-TENTATIVE 18/21] Pour polo & pan...
+[RE-TENTATIVE 19/21] Pour 45yEuthJ9yq1rNXAOpBnqM...
+[RE-TENTATIVE 20/21] Pour Hannes Koch...
+[RE-TENTATIVE 21/21] Pour jain...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-27 17:42:06] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3743.42 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.81 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1332
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1332
+  - Re-tentatives effectuées : 21
+  - Succès FINAUX (après toutes les tentatives) : 1327
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 26
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - Lifelike (Initialement: Auditeurs non trouvés)
+  - Baby Neelou (Initialement: Auditeurs non trouvés)
+  - Charles Aznavour (Initialement: Auditeurs non trouvés)
+  - Julian Casablancas (Initialement: Auditeurs non trouvés)
+  - Malter (Initialement: Auditeurs non trouvés)
+  - Nectar.S (Initialement: Auditeurs non trouvés)
+  - Nejeu (Initialement: Auditeurs non trouvés)
+  - amne (Initialement: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x9310f3]
+	(No symbol) [0x0x9378e0]
+	(No symbol) [0x0x939c0a]
+	(No symbol) [0x0x939c87]
+	(No symbol) [0x0x97452e]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x96ee74]
+	(No symbol) [0x0x99e784]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - Zoxea (Initialement: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x9310f3]
+	(No symbol) [0x0x9378e0]
+	(No symbol) [0x0x939c0a]
+	(No symbol) [0x0x939c87]
+	(No symbol) [0x0x97452e]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x96ee74]
+	(No symbol) [0x0x99e784]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - iros (Initialement: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x9310f3]
+	(No symbol) [0x0x9378e0]
+	(No symbol) [0x0x939c0a]
+	(No symbol) [0x0x939c87]
+	(No symbol) [0x0x97452e]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x96ee74]
+	(No symbol) [0x0x99e784]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - Big GLTAOW (Initialement: Auditeurs non trouvés)
+  - J. Cole (Initialement: Auditeurs non trouvés)
+  - Vacations (Initialement: Auditeurs non trouvés)
+  - TWENTG (Initialement: Auditeurs non trouvés)
+  - DJADJA (Initialement: Auditeurs non trouvés)
+  - Justin Bieber (Initialement: Auditeurs non trouvés)
+  - polo and pan (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - polo & pan (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - 45yEuthJ9yq1rNXAOpBnqM (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - Hannes Koch (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - jain (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - polo and pan (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - polo & pan (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - 45yEuthJ9yq1rNXAOpBnqM (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - Hannes Koch (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - jain (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3743.42 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.81 secondes
+  - Artistes totaux considérés : 1332
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1332
+  - Succès FINAUX (après toutes les tentatives) : 1327
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 26
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - Lifelike (Initialement: Auditeurs non trouvés)
+      - Baby Neelou (Initialement: Auditeurs non trouvés)
+      - Charles Aznavour (Initialement: Auditeurs non trouvés)
+      - Julian Casablancas (Initialement: Auditeurs non trouvés)
+      - Malter (Initialement: Auditeurs non trouvés)
+      - Nectar.S (Initialement: Auditeurs non trouvés)
+      - Nejeu (Initialement: Auditeurs non trouvés)
+      - amne (Initialement: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x9310f3]
+	(No symbol) [0x0x9378e0]
+	(No symbol) [0x0x939c0a]
+	(No symbol) [0x0x939c87]
+	(No symbol) [0x0x97452e]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x96ee74]
+	(No symbol) [0x0x99e784]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - Zoxea (Initialement: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x9310f3]
+	(No symbol) [0x0x9378e0]
+	(No symbol) [0x0x939c0a]
+	(No symbol) [0x0x939c87]
+	(No symbol) [0x0x97452e]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x96ee74]
+	(No symbol) [0x0x99e784]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - iros (Initialement: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x9310f3]
+	(No symbol) [0x0x9378e0]
+	(No symbol) [0x0x939c0a]
+	(No symbol) [0x0x939c87]
+	(No symbol) [0x0x97452e]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x96ee74]
+	(No symbol) [0x0x99e784]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - Big GLTAOW (Initialement: Auditeurs non trouvés)
+      - J. Cole (Initialement: Auditeurs non trouvés)
+      - Vacations (Initialement: Auditeurs non trouvés)
+      - TWENTG (Initialement: Auditeurs non trouvés)
+      - DJADJA (Initialement: Auditeurs non trouvés)
+      - Justin Bieber (Initialement: Auditeurs non trouvés)
+      - polo and pan (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - polo & pan (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - 45yEuthJ9yq1rNXAOpBnqM (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - Hannes Koch (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - jain (Initialement: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - polo and pan (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - polo & pan (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - 45yEuthJ9yq1rNXAOpBnqM (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - Hannes Koch (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+      - jain (Après re-tentative: Message: invalid argument
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xb03b03+62899]
+	GetHandleVerifier [0x0xb03b44+62964]
+	(No symbol) [0x0x930f50]
+	(No symbol) [0x0x921485]
+	(No symbol) [0x0x91fb39]
+	(No symbol) [0x0x92028b]
+	(No symbol) [0x0x934b1e]
+	(No symbol) [0x0x9c09b7]
+	(No symbol) [0x0x99e50c]
+	(No symbol) [0x0x9bfd81]
+	(No symbol) [0x0x99e306]
+	(No symbol) [0x0x96d670]
+	(No symbol) [0x0x96e4e4]
+	GetHandleVerifier [0x0xd64793+2556483]
+	GetHandleVerifier [0x0xd5fd02+2537394]
+	GetHandleVerifier [0x0xb2a2fa+220586]
+	GetHandleVerifier [0x0xb1aae8+157080]
+	GetHandleVerifier [0x0xb2141d+184013]
+	GetHandleVerifier [0x0xb0ba68+95512]
+	GetHandleVerifier [0x0xb0bc10+95936]
+	GetHandleVerifier [0x0xaf6b5a+9738]
+	BaseThreadInitThunk [0x0x76475d49+25]
+	RtlInitializeExceptionChain [0x0x7708d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708d021+561]
+)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-28 22:15:02
+================================================================================
+
+[2025-06-28 21:10:41] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1328 artistes sur 1328.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+5 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/5] Pour Yvnnis...
+[RE-TENTATIVE 2/5] Pour EXOSLAYER...
+[RE-TENTATIVE 3/5] Pour Obongjayar...
+[RE-TENTATIVE 4/5] Pour MERVEILLE...
+[RE-TENTATIVE 5/5] Pour jain...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-28 21:10:41] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3860.73 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.91 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1328
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1328
+  - Re-tentatives effectuées : 5
+  - Succès FINAUX (après toutes les tentatives) : 1327
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 6
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - Yvnnis (Initialement: File is not a zip file)
+  - EXOSLAYER (Initialement: Auditeurs non trouvés)
+  - Obongjayar (Initialement: Auditeurs non trouvés)
+  - MERVEILLE (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1034493+62419]
+	GetHandleVerifier [0x0x10344d4+62484]
+	(No symbol) [0x0xe72133]
+	(No symbol) [0x0xeba8fe]
+	(No symbol) [0x0xebac9b]
+	(No symbol) [0x0xf03052]
+	(No symbol) [0x0xedf4b4]
+	(No symbol) [0x0xf0087a]
+	(No symbol) [0x0xedf266]
+	(No symbol) [0x0xeae852]
+	(No symbol) [0x0xeaf6f4]
+	GetHandleVerifier [0x0x12a4773+2619059]
+	GetHandleVerifier [0x0x129fb8a+2599626]
+	GetHandleVerifier [0x0x105b03a+221050]
+	GetHandleVerifier [0x0x104b2b8+156152]
+	GetHandleVerifier [0x0x1051c6d+183213]
+	GetHandleVerifier [0x0x103c378+94904]
+	GetHandleVerifier [0x0x103c502+95298]
+	GetHandleVerifier [0x0x102765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - jain (Initialement: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x1034493+62419]
+	GetHandleVerifier [0x0x10344d4+62484]
+	(No symbol) [0x0xe71f90]
+	(No symbol) [0x0xe62705]
+	(No symbol) [0x0xe60db9]
+	(No symbol) [0x0xe6150b]
+	(No symbol) [0x0xe75b5e]
+	(No symbol) [0x0xf01447]
+	(No symbol) [0x0xedf46c]
+	(No symbol) [0x0xf0087a]
+	(No symbol) [0x0xedf266]
+	(No symbol) [0x0xeae852]
+	(No symbol) [0x0xeaf6f4]
+	GetHandleVerifier [0x0x12a4773+2619059]
+	GetHandleVerifier [0x0x129fb8a+2599626]
+	GetHandleVerifier [0x0x105b03a+221050]
+	GetHandleVerifier [0x0x104b2b8+156152]
+	GetHandleVerifier [0x0x1051c6d+183213]
+	GetHandleVerifier [0x0x103c378+94904]
+	GetHandleVerifier [0x0x103c502+95298]
+	GetHandleVerifier [0x0x102765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - jain (Après re-tentative: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x1034493+62419]
+	GetHandleVerifier [0x0x10344d4+62484]
+	(No symbol) [0x0xe71f90]
+	(No symbol) [0x0xe62705]
+	(No symbol) [0x0xe60db9]
+	(No symbol) [0x0xe6150b]
+	(No symbol) [0x0xe75b5e]
+	(No symbol) [0x0xf01447]
+	(No symbol) [0x0xedf46c]
+	(No symbol) [0x0xf0087a]
+	(No symbol) [0x0xedf266]
+	(No symbol) [0x0xeae852]
+	(No symbol) [0x0xeaf6f4]
+	GetHandleVerifier [0x0x12a4773+2619059]
+	GetHandleVerifier [0x0x129fb8a+2599626]
+	GetHandleVerifier [0x0x105b03a+221050]
+	GetHandleVerifier [0x0x104b2b8+156152]
+	GetHandleVerifier [0x0x1051c6d+183213]
+	GetHandleVerifier [0x0x103c378+94904]
+	GetHandleVerifier [0x0x103c502+95298]
+	GetHandleVerifier [0x0x102765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3860.73 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.91 secondes
+  - Artistes totaux considérés : 1328
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1328
+  - Succès FINAUX (après toutes les tentatives) : 1327
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 6
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - Yvnnis (Initialement: File is not a zip file)
+      - EXOSLAYER (Initialement: Auditeurs non trouvés)
+      - Obongjayar (Initialement: Auditeurs non trouvés)
+      - MERVEILLE (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1034493+62419]
+	GetHandleVerifier [0x0x10344d4+62484]
+	(No symbol) [0x0xe72133]
+	(No symbol) [0x0xeba8fe]
+	(No symbol) [0x0xebac9b]
+	(No symbol) [0x0xf03052]
+	(No symbol) [0x0xedf4b4]
+	(No symbol) [0x0xf0087a]
+	(No symbol) [0x0xedf266]
+	(No symbol) [0x0xeae852]
+	(No symbol) [0x0xeaf6f4]
+	GetHandleVerifier [0x0x12a4773+2619059]
+	GetHandleVerifier [0x0x129fb8a+2599626]
+	GetHandleVerifier [0x0x105b03a+221050]
+	GetHandleVerifier [0x0x104b2b8+156152]
+	GetHandleVerifier [0x0x1051c6d+183213]
+	GetHandleVerifier [0x0x103c378+94904]
+	GetHandleVerifier [0x0x103c502+95298]
+	GetHandleVerifier [0x0x102765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+      - jain (Initialement: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x1034493+62419]
+	GetHandleVerifier [0x0x10344d4+62484]
+	(No symbol) [0x0xe71f90]
+	(No symbol) [0x0xe62705]
+	(No symbol) [0x0xe60db9]
+	(No symbol) [0x0xe6150b]
+	(No symbol) [0x0xe75b5e]
+	(No symbol) [0x0xf01447]
+	(No symbol) [0x0xedf46c]
+	(No symbol) [0x0xf0087a]
+	(No symbol) [0x0xedf266]
+	(No symbol) [0x0xeae852]
+	(No symbol) [0x0xeaf6f4]
+	GetHandleVerifier [0x0x12a4773+2619059]
+	GetHandleVerifier [0x0x129fb8a+2599626]
+	GetHandleVerifier [0x0x105b03a+221050]
+	GetHandleVerifier [0x0x104b2b8+156152]
+	GetHandleVerifier [0x0x1051c6d+183213]
+	GetHandleVerifier [0x0x103c378+94904]
+	GetHandleVerifier [0x0x103c502+95298]
+	GetHandleVerifier [0x0x102765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+      - jain (Après re-tentative: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0x1034493+62419]
+	GetHandleVerifier [0x0x10344d4+62484]
+	(No symbol) [0x0xe71f90]
+	(No symbol) [0x0xe62705]
+	(No symbol) [0x0xe60db9]
+	(No symbol) [0x0xe6150b]
+	(No symbol) [0x0xe75b5e]
+	(No symbol) [0x0xf01447]
+	(No symbol) [0x0xedf46c]
+	(No symbol) [0x0xf0087a]
+	(No symbol) [0x0xedf266]
+	(No symbol) [0x0xeae852]
+	(No symbol) [0x0xeaf6f4]
+	GetHandleVerifier [0x0x12a4773+2619059]
+	GetHandleVerifier [0x0x129fb8a+2599626]
+	GetHandleVerifier [0x0x105b03a+221050]
+	GetHandleVerifier [0x0x104b2b8+156152]
+	GetHandleVerifier [0x0x1051c6d+183213]
+	GetHandleVerifier [0x0x103c378+94904]
+	GetHandleVerifier [0x0x103c502+95298]
+	GetHandleVerifier [0x0x102765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+
+
+================================================================================
+Historique d'exécution - 2025-06-29 01:30:23
+================================================================================
+
+[2025-06-29 00:26:35] Début de l'actualisation quotidienne des auditeurs (Parallélisée)...
+Préparation au scraping de 1328 artistes sur 1328.
+
+--- Début de la phase de scraping initial (parallèle) ---
+--- Fin de la phase de scraping initial ---
+
+6 artistes ont échoué lors du scraping initial ou de l'ajout CSV. Tentative de re-traitement en séquentiel...
+
+--- Début de la phase de re-tentative (séquentiel) ---
+[RE-TENTATIVE 1/6] Pour Rounhaa...
+[RE-TENTATIVE 2/6] Pour Yvnnis...
+[RE-TENTATIVE 3/6] Pour Djack...
+[RE-TENTATIVE 4/6] Pour Drake...
+[RE-TENTATIVE 5/6] Pour Shakira...
+[RE-TENTATIVE 6/6] Pour jain...
+--- Fin de la phase de re-tentative ---
+
+Début de la consolidation des résultats finaux...
+
+[2025-06-29 00:26:35] --- Résumé FINAL de l'Actualisation ---
+Temps total écoulé : 3828.29 secondes.
+Temps moyen par artiste SCRAPÉ (incluant re-tentatives) : 2.88 secondes.
+
+Statistiques des opérations :
+  - Artistes totaux considérés : 1328
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1328
+  - Re-tentatives effectuées : 6
+  - Succès FINAUX (après toutes les tentatives) : 1327
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 7
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+ARTISTES AYANT ÉCHOUÉ LE SCRAPING (APRÈS TOUTES LES TENTATIVES) :
+  - Rounhaa (Initialement: File is not a zip file)
+  - Yvnnis (Initialement: Auditeurs non trouvés)
+  - Djack (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc22133]
+	(No symbol) [0x0xc6a8fe]
+	(No symbol) [0x0xc6ac9b]
+	(No symbol) [0x0xcb3052]
+	(No symbol) [0x0xc8f4b4]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - Drake (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc22133]
+	(No symbol) [0x0xc6a8fe]
+	(No symbol) [0x0xc6ac9b]
+	(No symbol) [0x0xcb3052]
+	(No symbol) [0x0xc8f4b4]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - Shakira (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc22133]
+	(No symbol) [0x0xc6a8fe]
+	(No symbol) [0x0xc6ac9b]
+	(No symbol) [0x0xcb3052]
+	(No symbol) [0x0xc8f4b4]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - jain (Initialement: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc21f90]
+	(No symbol) [0x0xc12705]
+	(No symbol) [0x0xc10db9]
+	(No symbol) [0x0xc1150b]
+	(No symbol) [0x0xc25b5e]
+	(No symbol) [0x0xcb1447]
+	(No symbol) [0x0xc8f46c]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - jain (Après re-tentative: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc21f90]
+	(No symbol) [0x0xc12705]
+	(No symbol) [0x0xc10db9]
+	(No symbol) [0x0xc1150b]
+	(No symbol) [0x0xc25b5e]
+	(No symbol) [0x0xcb1447]
+	(No symbol) [0x0xc8f46c]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+
+--------------------------------------------------------------------------------
+Résumé final des statistiques:
+  - Temps total écoulé : 3828.29 secondes
+  - Temps moyen par artiste SCRAPÉ : 2.88 secondes
+  - Artistes totaux considérés : 1328
+  - Artistes déjà à jour (passés) : 0
+  - Artistes réellement scrappés (initialement tentés) : 1328
+  - Succès FINAUX (après toutes les tentatives) : 1327
+  - Échecs de SCRAPING FINAUX (après toutes les tentatives) : 7
+    Détails des artistes avec échecs de SCRAPING FINAUX:
+      - Rounhaa (Initialement: File is not a zip file)
+      - Yvnnis (Initialement: Auditeurs non trouvés)
+      - Djack (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc22133]
+	(No symbol) [0x0xc6a8fe]
+	(No symbol) [0x0xc6ac9b]
+	(No symbol) [0x0xcb3052]
+	(No symbol) [0x0xc8f4b4]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+      - Drake (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc22133]
+	(No symbol) [0x0xc6a8fe]
+	(No symbol) [0x0xc6ac9b]
+	(No symbol) [0x0xcb3052]
+	(No symbol) [0x0xc8f4b4]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+      - Shakira (Initialement: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc22133]
+	(No symbol) [0x0xc6a8fe]
+	(No symbol) [0x0xc6ac9b]
+	(No symbol) [0x0xcb3052]
+	(No symbol) [0x0xc8f4b4]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+      - jain (Initialement: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc21f90]
+	(No symbol) [0x0xc12705]
+	(No symbol) [0x0xc10db9]
+	(No symbol) [0x0xc1150b]
+	(No symbol) [0x0xc25b5e]
+	(No symbol) [0x0xcb1447]
+	(No symbol) [0x0xc8f46c]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+      - jain (Après re-tentative: Message: invalid argument
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+	GetHandleVerifier [0x0xde4493+62419]
+	GetHandleVerifier [0x0xde44d4+62484]
+	(No symbol) [0x0xc21f90]
+	(No symbol) [0x0xc12705]
+	(No symbol) [0x0xc10db9]
+	(No symbol) [0x0xc1150b]
+	(No symbol) [0x0xc25b5e]
+	(No symbol) [0x0xcb1447]
+	(No symbol) [0x0xc8f46c]
+	(No symbol) [0x0xcb087a]
+	(No symbol) [0x0xc8f266]
+	(No symbol) [0x0xc5e852]
+	(No symbol) [0x0xc5f6f4]
+	GetHandleVerifier [0x0x1054773+2619059]
+	GetHandleVerifier [0x0x104fb8a+2599626]
+	GetHandleVerifier [0x0xe0b03a+221050]
+	GetHandleVerifier [0x0xdfb2b8+156152]
+	GetHandleVerifier [0x0xe01c6d+183213]
+	GetHandleVerifier [0x0xdec378+94904]
+	GetHandleVerifier [0x0xdec502+95298]
+	GetHandleVerifier [0x0xdd765a+9626]
+	BaseThreadInitThunk [0x0x762b5d49+25]
+	RtlInitializeExceptionChain [0x0x7745d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7745d021+561]
+)
+  - Échecs d'AJOUT CSV FINAUX (après toutes les tentatives) : 0
+
+================================================================================
+

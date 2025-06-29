@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détail de l'artiste</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/date-fns@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #eef2f7; /* Fond léger */
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .header-banner {
+            background: linear-gradient(to right, #4f8df9, #6c5ce7); /* Dégradé de couleurs */
+            padding: 30px 0;
+            color: white;
+            text-align: center;
+            border-radius: 0 0 20px 20px; /* Bords inférieurs arrondis */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Ombre douce */
+            margin-bottom: 30px; /* Marge pour séparer du contenu */
+        }
+
+        .header-banner h1 {
+            margin: 0;
+            font-size: 2.2em;
+            letter-spacing: 1px;
+            margin-bottom: 10px; /* Espace sous le titre */
+        }
+
+        .header-banner p { /* Style pour la date de dernière mise à jour */
+            margin: 0;
+            font-size: 0.9em;
+            opacity: 0.8; /* Légèrement transparent */
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px; /* Plus de padding */
+            border-radius: 10px; /* Bords arrondis */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Ombre plus prononcée */
+            margin-top: 30px; /* Marge supérieure pour alignement */
+        }
+        
+        .back-link {
+            display: inline-flex; /* Permet d'aligner l'icône et le texte */
+            align-items: center;
+            gap: 5px; /* Espace entre la flèche et le texte */
+            margin-bottom: 25px;
+            color: #007bff; /* Couleur primaire */
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s; /* Transition douce au survol */
+        }
+        .back-link:hover {
+            color: #0056b3; /* Couleur au survol */
+            text-decoration: underline;
+        }
+
+        .chart-section { /* Nouvelle section pour le graphique */
+            margin-top: 30px;
+        }
+        
+        .chart-section h2 {
+            text-align: center;
+            color: #2c3e50; /* Couleur sombre pour le titre */
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 400px; /* Hauteur fixe pour le graphique */
+            width: 100%;
+        }
+
+        #noDataMessage {
+            text-align: center;
+            color: #666;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f0f0f0;
+            border-radius: 8px;
+            display: none; /* Caché par défaut, affiché par JS si besoin */
+        }
+
+        /* Adaptations pour les petits écrans */
+        @media (max-width: 768px) {
+            .header-banner h1 {
+                font-size: 1.8em;
+            }
+            .container {
+                padding: 20px;
+                margin-top: 20px;
+            }
+            .chart-container {
+                height: 300px; /* Graphique plus petit sur mobile */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header-banner">
+        <h1>Détail de l'artiste : <span id="artistNameTitle">Chargement...</span></h1>
+        <p id="lastUpdateDate">Dernière mise à jour : N/A</p>
+    </div>
+
+    <div class="container">
+        <a href="index.html" class="back-link">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
+            </svg>
+            Retour à la liste des artistes
+        </a>
+        
+        <div class="chart-section">
+            <h2>Évolution des auditeurs mensuels</h2>
+            <div class="chart-container">
+                <canvas id="monthlyListenersChart"></canvas>
+                <p id="noDataMessage">Aucune donnée historique disponible pour cet artiste.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/artistDetail.js"></script>
+</body>
+</html>
